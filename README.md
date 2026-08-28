@@ -47,7 +47,7 @@ A screenshot after Step 4 would be useful: it should show the terminal window wi
 
 Troubleshooting Note
 
-The most common error beginners hit is typing `python` instead of `python3`, resulting in a "command not found" error, since many Linux systems only recognize `python3` by default. If this happens, try `python3` inste
+The most common error beginners hit is typing python instead of python3, resulting in a "command not found" error, since many Linux systems only recognize python3 by default. If this happens, try python 3 instead. Additionally, on Debian and Ubuntu-based systems, running the venv command may fail even when Python is installed, because these systems require the python3-venv package to be installed separately. If this happens, run sudo apt install python3-venv and then retry creating the virtual environment.
 
  Exercise B: API Reference Entry
 `POST /api/v1/projects/{project_id}/tasks`
