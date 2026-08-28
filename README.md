@@ -1,4 +1,4 @@
- day5-technical- Day 5 Assignment — Technical Writing
+ Day 5 Assignment — Technical Writing
 
  Exercise A: User Manual Procedure
 
